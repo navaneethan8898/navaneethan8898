@@ -1,4 +1,3 @@
-<img align ="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="2560px" height ="240px">
 <h1 align="center">Hi 👋, I'm Navaneethan</h1>
 
 <h3 align="center">A Passionate Front End Developer from India</h3>
@@ -9,7 +8,7 @@
 
 <h3 align="left">About</h3>
 
-- 🔭 I’m currently pursuing **BE , Computer Science and Engineering** in **KPR Institute of Engineering and Technology**
+- 🔭 I’m currently pursuing **BE , Computer Science and Engineering** in **KPR Institute of Engineering and Technology, Coimbatore**
 
 - 🌱 I’m currently learning **React , Angular**
 
